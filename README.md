@@ -11,7 +11,7 @@ This project uses the following technologies:
   - Node.js (JavaScript runtime for server-side development)
   - Express.js (web framework for Node.js)
   - MongoDB (NoSQL database for storing application data)
- 
-  - ## Future Updates
+
+ - ## Future Updates
 
 - The project will be updated with new features and improvements in the future.
