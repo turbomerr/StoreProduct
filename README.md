@@ -1,5 +1,8 @@
 ## Technologies Used
 
+<img width="1145" alt="Product-Store" src="https://github.com/user-attachments/assets/c7079d80-e3e7-4ebd-98d6-c3b676e6a116">
+
+
 This project uses the following technologies:
 
 - **Frontend:**
