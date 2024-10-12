@@ -5,7 +5,7 @@
 
 Technologies Used
 
-This project uses the following technologies:
+##This project uses the following technologies:
 
 - **Frontend:**
   - React.js (JavaScript library for building user interfaces)
