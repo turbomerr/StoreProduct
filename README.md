@@ -17,7 +17,3 @@ This project uses the following technologies:
   - Express.js (web framework for Node.js)
   - MongoDB (NoSQL database for storing application data)
 
- - ## Future Updates
-
-- The project will be updated with new features and improvements in the future.
-- JWT (JSON Web Token) will be implemented for user authentication.
